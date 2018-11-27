@@ -5,6 +5,6 @@ Locales['fr'] = {
 	['paid_invoice'] = 'vous avez ~g~payé~s~ une facture de ~r~$%s~s~',
 	['received_payment'] = 'vous avez ~g~reçu~s~ un paiement de ~g~$%s~s~',
 	['player_not_online'] = 'le joueur n\'est pas connecté',
-	['no_money'] = 'you do not have enough money to pay this bill',
-	['target_no_money'] = 'the player ~r~does not~s~ have enough money to pay the bill!',
+	['no_money'] = 'vous n\'avez pas assez d\'argent pour payer cette facture',
+	['target_no_money'] = 'Le joueur ~r~n\'a pas assez~s~ d\'argent pour payer l\'addition!',
 }
